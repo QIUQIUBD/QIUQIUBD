@@ -12,8 +12,12 @@
 
 | 平台 | 账号 |
 |---|---|
-| 💬 **QQ** | `待填` |
+| 💬 **QQ** | `WanLeGeQiu (2303602934)` |
 | 🐙 GitHub | [@QIUQIUBD](https://github.com/QIUQIUBD) |
+
+<p align="left">
+  <img src="assets/qq-qr.png" alt="QQ 二维码" width="180"/>
+</p>
 
 ## 🛠 Tech Stack
 
