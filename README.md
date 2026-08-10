@@ -62,4 +62,7 @@ macOS · Android · Linux
 
 ## 📈 GitHub Stats
 
-![QIUQIUBD's GitHub stats](https://github-readme-stats.vercel.app/api?username=QIUQIUBD&show_icons=true&theme=dark)
+![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FQIUQIUBD&label=Followers&query=followers&color=blue)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FQIUQIUBD&label=Public%20Repos&query=public_repos&color=green)
+
+![Contribution](https://ghchart.rshah.org/QIUQIUBD)
