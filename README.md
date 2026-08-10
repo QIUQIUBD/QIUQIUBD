@@ -14,13 +14,15 @@
 |---|---|
 | 💬 **QQ** | `WanLeGeQiu (2303602934)` |
 | 💚 **WeChat** | `Qiu. (N2303439246)` |
+| ✈️ **Telegram** | [@WanQiu](https://t.me/WanQiu) |
 | 🐙 GitHub | [@QIUQIUBD](https://github.com/QIUQIUBD) |
 
 <table>
-<tr><th align="center">💬 QQ</th><th align="center">💚 WeChat</th></tr>
+<tr><th align="center">💬 QQ</th><th align="center">💚 WeChat</th><th align="center">✈️ Telegram</th></tr>
 <tr>
-<td align="center"><img src="assets/qq-qr.png" width="150" alt="QQ 二维码"/></td>
-<td align="center"><img src="assets/wechat-qr.png" width="150" alt="微信二维码"/></td>
+<td align="center"><img src="assets/qq-qr.png" width="130" alt="QQ 二维码"/></td>
+<td align="center"><img src="assets/wechat-qr.png" width="130" alt="微信二维码"/></td>
+<td align="center"><img src="assets/tg-qr.png" width="130" alt="Telegram"/></td>
 </tr>
 </table>
 
