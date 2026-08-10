@@ -20,13 +20,11 @@ macOS · Android · Linux
 
 ## 📫 Contact
 
-| 平台 | 账号 |
-|---|---|
-| 💬 **QQ** | `WanLeGeQiu (2303602934)` |
-| 💚 **WeChat** | `Qiu. (N2303439246)` |
-| ✈️ **Telegram** | [@WanQiu](https://t.me/WanQiu) |
-| 🎮 **Discord** | `wq.00` |
-| 🐙 GitHub | [@QIUQIUBD](https://github.com/QIUQIUBD) |
+[![QQ](https://img.shields.io/badge/QQ-2303602934-12B7F5?style=for-the-badge&logo=qq&logoColor=white)](https://user.qzone.qq.com/2303602934)
+[![WeChat](https://img.shields.io/badge/WeChat-N2303439246-07C160?style=for-the-badge&logo=wechat&logoColor=white)]()
+[![Telegram](https://img.shields.io/badge/Telegram-%40WanQiu-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/WanQiu)
+[![Discord](https://img.shields.io/badge/Discord-wq.00-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/GitHub-%40QIUQIUBD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QIUQIUBD)
 
 <table>
 <tr><th align="center">💬 QQ</th><th align="center">💚 WeChat</th><th align="center">✈️ Telegram</th></tr>
