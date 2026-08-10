@@ -15,6 +15,7 @@
 | 💬 **QQ** | `WanLeGeQiu (2303602934)` |
 | 💚 **WeChat** | `Qiu. (N2303439246)` |
 | ✈️ **Telegram** | [@WanQiu](https://t.me/WanQiu) |
+| 🎮 **Discord** | `wq.00` |
 | 🐙 GitHub | [@QIUQIUBD](https://github.com/QIUQIUBD) |
 
 <table>
