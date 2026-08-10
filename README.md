@@ -22,11 +22,11 @@ macOS · Android · Linux
 
 | 平台 | 账号 |
 |---|---|
-| 💬 **QQ** | `WanLeGeQiu (2303602934)` |
-| 💚 **WeChat** | `Qiu. (N2303439246)` |
-| ✈️ **Telegram** | [@WanQiu](https://t.me/WanQiu) |
-| 🎮 **Discord** | `wq.00` |
-| 🐙 GitHub | [@QIUQIUBD](https://github.com/QIUQIUBD) |
+| 💬 **QQ** | [WanLeGeQiu (2303602934)](https://user.qzone.qq.com/2303602934) · [空间主页](https://user.qzone.qq.com/2303602934) |
+| 💚 **WeChat** | `Qiu. (N2303439246)` · 微信无公开主页链接 |
+| ✈️ **Telegram** | [@WanQiu](https://t.me/WanQiu) · [t.me/WanQiu](https://t.me/WanQiu) |
+| 🎮 **Discord** | `wq.00` · 提供数字 User ID 可生成主页链接 |
+| 🐙 GitHub | [@QIUQIUBD](https://github.com/QIUQIUBD) · [github.com/QIUQIUBD](https://github.com/QIUQIUBD) |
 
 <table>
 <tr><th align="center">💬 QQ</th><th align="center">💚 WeChat</th><th align="center">✈️ Telegram</th></tr>
