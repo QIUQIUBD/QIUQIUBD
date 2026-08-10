@@ -37,9 +37,28 @@ macOS · Android · Linux
 
 ## 🛠 Tech Stack
 
-- **逆向**：Frida · Ghidra · IDA · SPIR-V / LLVM · APK 分析
-- **开发**：Python · C++ · JavaScript · Lua · Shell
-- **平台**：Android · Linux · macOS
+**逆向**
+
+![Frida](https://img.shields.io/badge/Frida-000000?style=for-the-badge)
+![Ghidra](https://img.shields.io/badge/Ghidra-7A5CF0?style=for-the-badge)
+![IDA](https://img.shields.io/badge/IDA-5C2D91?style=for-the-badge)
+![SPIR-V](https://img.shields.io/badge/SPIR--V-8B0000?style=for-the-badge)
+![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge)
+![APK](https://img.shields.io/badge/APK-0A9D58?style=for-the-badge)
+
+**开发**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**平台**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ## 📈 GitHub Stats
 
