@@ -13,11 +13,16 @@
 | 平台 | 账号 |
 |---|---|
 | 💬 **QQ** | `WanLeGeQiu (2303602934)` |
+| 💚 **WeChat** | `Qiu. (N2303439246)` |
 | 🐙 GitHub | [@QIUQIUBD](https://github.com/QIUQIUBD) |
 
-<p align="left">
-  <img src="assets/qq-qr.png" alt="QQ 二维码" width="180"/>
-</p>
+<table>
+<tr><th align="center">💬 QQ</th><th align="center">💚 WeChat</th></tr>
+<tr>
+<td align="center"><img src="assets/qq-qr.png" width="150" alt="QQ 二维码"/></td>
+<td align="center"><img src="assets/wechat-qr.png" width="150" alt="微信二维码"/></td>
+</tr>
+</table>
 
 ## 🛠 Tech Stack
 
