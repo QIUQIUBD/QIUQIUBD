@@ -1,6 +1,6 @@
 # Hi there 👋 I'm QIUQIUBD
 
-> 🧑‍💻 18 岁逆向工程师 ｜ 拆解二进制与渲染管线：Mach-O → SPIR-V → 网络协议，Frida · Ghidra · LLVM 🔧
+> 🧑‍💻 逆向工程 ｜ 拆解二进制与渲染管线：Mach-O → SPIR-V → 网络协议，Frida · Ghidra · LLVM 🔧
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=QIUQIUBD.QIUQIUBD)
 
