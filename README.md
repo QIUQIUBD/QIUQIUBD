@@ -68,3 +68,10 @@ macOS · Android · Linux
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FQIUQIUBD&label=Public%20Repos&query=public_repos&color=green)
 
 ![Contribution](https://ghchart.rshah.org/QIUQIUBD)
+
+## 🏆 Achievements
+
+[![Pull Shark](https://img.shields.io/badge/Pull_Shark-2_PR_Merged-FFDD00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/QIUQIUBD?achievement=PullShark)
+[![Quickdraw](https://img.shields.io/badge/Quickdraw-PR_%3C5_min-FFDD00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/QIUQIUBD?achievement=Quickdraw)
+
+> 🎯 已达成，等待 GitHub 结算 —— 结算完成后会自动出现在主页头像下方的 Trophy case。
