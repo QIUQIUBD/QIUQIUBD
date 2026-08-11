@@ -71,6 +71,7 @@ macOS · Android · Linux
 
 ## 🏆 Achievements
 
+[![Galaxy Brain](https://img.shields.io/badge/Galaxy_Brain-2_Accepted_Answers-FFDD00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/QIUQIUBD?achievement=GalaxyBrain)
 [![Pull Shark](https://img.shields.io/badge/Pull_Shark-2_PR_Merged-FFDD00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/QIUQIUBD?achievement=PullShark)
 [![Quickdraw](https://img.shields.io/badge/Quickdraw-PR_%3C5_min-FFDD00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/QIUQIUBD?achievement=Quickdraw)
 
