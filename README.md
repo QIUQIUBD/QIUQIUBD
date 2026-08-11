@@ -72,9 +72,9 @@ macOS · Android · Linux
 ## 🏆 Achievements
 
 [![Galaxy Brain](https://img.shields.io/badge/Galaxy_Brain-2_Accepted_Answers-FFDD00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/QIUQIUBD?achievement=GalaxyBrain)
-[![Pull Shark](https://img.shields.io/badge/Pull_Shark-11_PR_Merged-FFDD00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/QIUQIUBD?achievement=PullShark)
+[![Pull Shark](https://img.shields.io/badge/Pull_Shark-16_PR_Merged-FFDD00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/QIUQIUBD?achievement=PullShark)
 [![Quickdraw](https://img.shields.io/badge/Quickdraw-8_PR_%3C5_min-FFDD00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/QIUQIUBD?achievement=Quickdraw)
 [![Pair Extraordinaire](https://img.shields.io/badge/Pair_Extraordinaire-PR_Two_Authors-FFDD00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/QIUQIUBD?achievement=PairExtraordinaire)
 [![YOLO](https://img.shields.io/badge/YOLO-8_PR_Merged_No_Review-FFDD00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/QIUQIUBD?achievement=YOLO)
 
-> 🏅 已结算：YOLO 🥇金 · Quickdraw 🥇金 · Galaxy Brain ✅ · Pull Shark 11/16 ｜ ⏳ Pair Extraordinaire 待结算。
+> 🏅 已结算：YOLO 🥇金 · Quickdraw 🥇金 · Galaxy Brain ✅ · Pull Shark 🥇金 ｜ ⏳ Pair Extraordinaire 待结算。
