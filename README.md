@@ -72,8 +72,7 @@ macOS · Android · Linux
 ## 🏆 Achievements
 
 [![Galaxy Brain](https://img.shields.io/badge/Galaxy_Brain-2_Accepted_Answers-FFDD00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/QIUQIUBD?achievement=GalaxyBrain)
-[![Galaxy Brain](https://img.shields.io/badge/Galaxy_Brain-2_Accepted_Answers-FFDD00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/QIUQIUBD?achievement=GalaxyBrain)
 [![Pull Shark](https://img.shields.io/badge/Pull_Shark-2_PR_Merged-FFDD00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/QIUQIUBD?achievement=PullShark)
 [![Quickdraw](https://img.shields.io/badge/Quickdraw-PR_%3C5_min-FFDD00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/QIUQIUBD?achievement=Quickdraw)
 
-> 🎯 已达成，等待 GitHub 结算 —— 结算完成后会自动出现在主页头像下方的 Trophy case。
+> 🏅 已结算：Quickdraw ✅ · Galaxy Brain ✅ ｜ ⏳ Pull Shark 等待批处理结算。
